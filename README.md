@@ -35,9 +35,9 @@
   <sub>CSS · ★ 1</sub>
 - `MSN-02` **[autonomous-campus-shuttle](https://github.com/Money043/autonomous-campus-shuttle)** · 3D Autonomous Campus Shuttle Simulation built with Python & Panda3D  
   <sub>Python · ★ 1</sub>
-- `MSN-03` **[BR-Chatbot](https://github.com/Money043/BR-Chatbot)**  
+- `MSN-03` **[Resume-Parser-with-Job-Recommendation-Engine](https://github.com/Money043/Resume-Parser-with-Job-Recommendation-Engine)**  
   <sub>TypeScript</sub>
-- `MSN-04` **[JPL-Internship-Projects](https://github.com/Money043/JPL-Internship-Projects)**  
+- `MSN-04` **[Chronic-Liver-Disease-Detection-Using-Machine-Learning](https://github.com/Money043/Chronic-Liver-Disease-Detection-Using-Machine-Learning)**  
   <sub>Python</sub>
 
 <p align="center">
